@@ -1,0 +1,11 @@
+{
+	"name": "@mobajl/prettier-config",
+	"version": "1.0.1",
+	"description": "Prettier configuration for Mobajl",
+	"main": "index.json",
+	"author": "Johan Kanefur <johan.kanefur@mybonus.com>",
+	"license": "MIT",
+	"peerDependencies": {
+		"prettier": ">= 2"
+	}
+}
